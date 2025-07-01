@@ -1,2 +1,2 @@
-const nome = "diego";
+const nome = "ruan";
 console.log(nome);
